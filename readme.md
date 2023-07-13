@@ -1,4 +1,4 @@
-Ejercicio Grupal 3.1 - módulo 06.
+Ejercicio Grupal 3.0 y 3.1 - módulo 06.
 
 Integrantes: 
 - Ricardo Cea
